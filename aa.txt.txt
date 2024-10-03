@@ -1,1 +1,2 @@
 this is aa file
+this is auto file
